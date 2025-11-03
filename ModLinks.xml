@@ -10606,4 +10606,23 @@ Enjoy!</Description>
             <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
+	<Manifest>
+        <Name>InfectedHallownest</Name>
+        <Description>Expands the Infection to strengthen enemies throughout the game after beating the Hollow Knight.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="09b9ad04e7ce232b91c2e2992953950a7a89863158856bbe8fc5c775ab9a5055">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.0.0/InfectedHallownest.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
